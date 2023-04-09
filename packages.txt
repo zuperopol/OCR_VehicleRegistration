@@ -1,2 +1,4 @@
 tesseract-ocr
 tesseract-ocr-tha
+freeglut3-dev
+libgtk2.0-dev
